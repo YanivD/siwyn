@@ -14,7 +14,7 @@
 Route::get('/', function () {
 
     return view('pages.posts_list')
-        ->with('posts', \App\Post::all());
+        ->with('posts', \App\Post::orderBy('published_at', 'desc')->get());
 
 })->name('posts_list');
 

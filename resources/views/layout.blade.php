@@ -93,14 +93,27 @@
             </ul>
         </div>
     </nav>
-    <div class="jumbotron hidden-xs" style="background: #8a0146;">
+    <div class="jumbotron visible-md visible-lg" style="background: #8a0146;">
+        <div class="container">
+            <h1 style="text-align: center;font-weight: bold; color: #fff;">SAY IT WITH YOUR NAILS</h1>
+        </div>
+    </div>
+    <div class="jumbotron visible-sm" style="z-index:999999;background: #8a0146;position: fixed; width: 100%">
         <div class="container">
             <h1 style="text-align: center;font-weight: bold; color: #fff;">SAY IT WITH YOUR NAILS</h1>
         </div>
     </div>
     <div class="jumbotron visible-xs" style="height:68px;margin:0;padding:0;background: transparent">
     </div>
-
+    <div class="jumbotron visible-sm" style="height:220px;margin:0;padding:0;background: transparent">
+    </div>
+    <style>
+        @media (max-width:794px) and (min-width:766px) {
+            .navbar-nav .logo img {
+                margin-left:7px !important;
+            }
+        }​
+    </style>
     @yield('content')
 
     <div class="jumbotron">
