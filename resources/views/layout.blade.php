@@ -4,6 +4,7 @@
     <head>
         <title>Say it with your nails</title>
         <meta charset="utf-8">
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" rel="stylesheet">
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -17,8 +18,8 @@
             button.btn-primary {
                 background-color: #4da5b5 !important;
             }
-            body {
-                font-family: 'Assistant', sans-serif;
+            body, body *:not(i) {
+                font-family: 'Assistant', sans-serif !important;
             }
 
             .navbar-nav .logo img {
@@ -120,7 +121,7 @@
         <div class="container" style="text-align: center">
             <h4 style="margin-top: 0; text-align: right">כתובת מייל לקבלת התראות</h4>
             <div class="form-group has-feedback">
-                <span class="glyphicon glyphicon-envelope form-control-feedback" aria-hidden="true" style="
+                <span class="fa fa-envelope-o form-control-feedback" aria-hidden="true" style="
     left: auto;
     right: 0;"></span>
                 <input type="email" class="form-control" id="inputSubscribe" aria-describedby="inputError2Status" style="

@@ -12,7 +12,7 @@
 
             <div class="form-group">
                 <label for="published_at">תאריך פרסום הפוסט</label>
-                <input type="date" class="form-control" id="published_at" name="published_at" placeholder="" value="{{ $post->published_at }}">
+                <input type="date" class="form-control" id="published_at" name="published_at" placeholder="" value="{{ Carbon\Carbon::parse($post->published_at)->format('d-m-Y') }}">
             </div>
 
             <div class="form-group">

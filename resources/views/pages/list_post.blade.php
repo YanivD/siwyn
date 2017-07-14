@@ -15,11 +15,11 @@
             <tbody>
             @foreach($posts as $post)
                 <tr>
-                    <td>{{ $post->published_at }}</td>
+                    <td>{{ Carbon\Carbon::parse($post->published_at)->format('d-m-Y') }}</td>
                     <td>{{ $post->title }}</td>
                     <td>
-                        <a href="{{ route('edit_post', ['id'=>$post->id]) }}" class="btn btn-xs btn-info">עריכה</a>
-                        <a href="{{ route('delete_post', ['id'=>$post->id]) }}" class="btn btn-xs btn-danger" onclick="return confirm('למחוק?');">מחיקה</a>
+                        <a href="{{ route('edit_post', ['id'=>$post->id]) }}" class="btn btn-md btn-info">עריכה</a>
+                        <a href="{{ route('delete_post', ['id'=>$post->id]) }}" class="btn btn-md btn-danger" onclick="return confirm('למחוק?');">מחיקה</a>
                     </td>
                 </tr>
             @endforeach

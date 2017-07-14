@@ -42,7 +42,7 @@ Route::group(['middleware' => 'auth', 'prefix' => 'maya'], function () {
 
     Route::post('upload_image', function () {
         $path = request()->file('image')->store('public/posts');
-        $url = url('storage/'.str_replace('public/posts/', 'posts/', $path));
+        $url = url('storage/'.$path);
 
         \App\Gallery::create([
             'url' => $url,
@@ -63,7 +63,7 @@ Route::group(['middleware' => 'auth', 'prefix' => 'maya'], function () {
     Route::get('/', function () {
         return view('pages.list_post')
             ->with('images', \App\Gallery::all())
-            ->with('posts', \App\Post::all());
+            ->with('posts', \App\Post::orderBy('published_at', 'desc')->get());
 
     })->name('admin_posts_list');
 
