@@ -61,11 +61,16 @@
                 cache: false,
                 contentType: false,
                 processData: false,
+                beforeSend: function() {
+                    toastr.info('מעלה תמונה <i style="font-size:30px" class="fa fa-spinner fa-spin" aria-hidden="true"></i>')
+                },
                 success: function(url) {
                     $('#content').summernote('insertImage', url);
+                    toastr.clear()
                 },
                 error: function(data) {
                     console.log(data);
+                    toastr.clear()
                 }
             });
         }

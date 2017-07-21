@@ -13,7 +13,27 @@
         <link href="https://fonts.googleapis.com/css?family=Assistant:200,300,400,600,700,800" rel="stylesheet">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.3/toastr.min.css" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.3/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr.options = {
+                "closeButton": false,
+                "debug": false,
+                "newestOnTop": false,
+                "progressBar": false,
+                "positionClass": "toast-top-right",
+                "preventDuplicates": false,
+                "onclick": null,
+                "showDuration": "300",
+                "hideDuration": "1000",
+                "timeOut": "50000",
+                "extendedTimeOut": "50000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut"
+            }
+        </script>
         <style>
             button.btn-primary {
                 background-color: #4da5b5 !important;
@@ -121,9 +141,7 @@
         <div class="container" style="text-align: center">
             <h4 style="margin-top: 0; text-align: right">כתובת מייל לקבלת התראות</h4>
             <div class="form-group has-feedback">
-                <span class="fa fa-envelope-o form-control-feedback" aria-hidden="true" style="
-    left: auto;
-    right: 0;"></span>
+                <i class="fa fa-envelope form-control-feedback" style="right: 0;left: auto;"></i>
                 <input type="email" class="form-control" id="inputSubscribe" aria-describedby="inputError2Status" style="
     padding-left: 12px;
     padding-right: 42.5px;">
