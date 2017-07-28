@@ -2,6 +2,9 @@
 <!doctype html>
 <html dir="rtl">
     <head>
+        <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+        <meta name="theme-color" content="#ff69b4">
         <title>Say it with your nails</title>
         <meta charset="utf-8">
         <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" rel="stylesheet">
