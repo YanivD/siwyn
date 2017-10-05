@@ -1,0 +1,534 @@
+[08-Jul-2017 11:31:14 America/Chicago] PHP Warning:  require_once(/home1/sayitwj2/public_html/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/autoload.php on line 5
+[08-Jul-2017 11:31:14 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home1/sayitwj2/public_html/vendor/composer/autoload_real.php' (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/autoload.php on line 5
+[08-Jul-2017 11:34:57 America/Chicago] PHP Warning:  require_once(/home1/sayitwj2/public_html/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/autoload.php on line 5
+[08-Jul-2017 11:34:57 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home1/sayitwj2/public_html/vendor/composer/autoload_real.php' (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/autoload.php on line 5
+[08-Jul-2017 12:06:44 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 12:06:44 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 12:06:44 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home1/sayitwj2/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 12:47:24 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 12:47:24 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 12:47:24 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 13:43:43 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 13:43:43 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 13:43:43 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 14:09:53 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 14:09:53 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 14:09:53 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:09:54 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:09:54 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:09:54 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:10:01 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:10:01 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:10:01 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:10:23 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:10:23 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:10:23 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:10:50 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:10:50 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:10:50 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:20:03 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:20:03 America/Chicago] PHP Warning:  require(/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:20:03 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home1/sayitwj2/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/autoload_real.php on line 66
+[08-Jul-2017 15:21:48 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:21:48 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:21:48 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:21:48 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\Container' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 13
+[08-Jul-2017 15:22:42 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:22:42 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:22:42 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:22:42 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\Container' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 13
+[08-Jul-2017 15:26:45 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:45 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:45 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:45 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\Container' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 13
+[08-Jul-2017 15:26:47 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:47 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:47 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Container/Container.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:47 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\Container' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 13
+[08-Jul-2017 15:26:53 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Foundation/Application.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:53 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Foundation/Application.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:53 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Foundation/Application.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:53 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Foundation\Application' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 24
+[08-Jul-2017 15:26:54 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Foundation/Application.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:54 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Foundation/Application.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:54 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Foundation/Application.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:54 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Foundation\Application' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 24
+[08-Jul-2017 15:26:56 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Foundation/Application.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:56 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Foundation/Application.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:56 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Contracts/Foundation/Application.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:56 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Foundation\Application' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 24
+[08-Jul-2017 15:26:57 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:57 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:57 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:57 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[08-Jul-2017 15:26:59 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:59 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:59 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:26:59 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[08-Jul-2017 15:27:00 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:00 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:00 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:00 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[08-Jul-2017 15:27:02 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:02 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:02 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/Traits/Macroable.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:02 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 10
+[08-Jul-2017 15:27:46 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:46 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:46 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:46 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:27:48 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:48 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:48 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:48 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:27:49 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:49 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:49 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:27:49 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:02 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:02 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:02 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:02 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:03 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:03 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:03 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:03 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:05 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:05 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:05 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:05 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:08 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:08 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:08 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:08 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:08 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:08 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:08 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:08 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:10 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:10 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:10 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:10 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:14 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:14 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:14 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:14 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:15 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:15 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:15 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:15 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:16 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:16 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:16 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:16 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:17 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:17 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:17 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:17 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:18 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:18 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:18 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/Http/Kernel.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:18 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/sayitwj2/public_html/app/Http/Kernel.php on line 7
+[08-Jul-2017 15:29:50 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:50 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:50 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:50 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Http\Concerns\InteractsWithContentTypes' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 17
+[08-Jul-2017 15:29:52 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:52 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:52 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:29:52 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Http\Concerns\InteractsWithContentTypes' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 17
+[08-Jul-2017 15:30:15 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:15 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:15 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:15 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Http\Concerns\InteractsWithContentTypes' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 17
+[08-Jul-2017 15:30:16 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:16 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:16 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:16 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Http\Concerns\InteractsWithContentTypes' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 17
+[08-Jul-2017 15:30:39 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../vlucas/phpdotenv/src/Exception/InvalidPathException.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:39 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../vlucas/phpdotenv/src/Exception/InvalidPathException.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:39 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../vlucas/phpdotenv/src/Exception/InvalidPathException.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:39 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:39 America/Chicago] PHP Warning:  include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:39 America/Chicago] PHP Warning:  include(): Failed opening '/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 15:30:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Log\Events\MessageLogged' not found in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php:297
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', Object(Symfony\Component\Debug\Exception\FatalThrowableError), Array)
+#1 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(114): Illuminate\Log\Writer->writeLog('error', Object(Symfony\Component\Debug\Exception\FatalThrowableError), Array)
+#2 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(71): Illuminate\Log\Writer->error(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 /home1/sayitwj2/public_html/app/Exceptions/Handler.php(35): Illuminate\Foundation\Exceptions\Handler->report(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illu in /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 297
+[08-Jul-2017 20:32:10 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:32:10 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:32:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:32:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:33:19 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:33:19 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:33:20 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:33:20 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:33:25 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:33:25 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:35:26 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:35:26 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:35:30 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:35:30 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:39:50 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 20:39:50 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 23:16:55 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 23:16:55 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 23:16:55 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[08-Jul-2017 23:16:55 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 16:46:54 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 16:46:54 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:45:50 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:45:50 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:48:27 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:48:27 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:49:04 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:49:04 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:49:06 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:49:06 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:05 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:05 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:11 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:12 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:12 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:12 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 17:50:12 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home1/sayitwj2/public_html/vendor/composer/../laravel/framework/src/Illuminate/Log/Events/MessageLogged.php): failed to open stream: No such file or directory in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php:440
+Stack trace:
+#0 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home1/...', '/home1/sayitwj2...', 440, Array)
+#1 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(440): include()
+#2 /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/sayitwj2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Log\\...')
+#4 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(297): spl_autoload_call('Illuminate\\Log\\...')
+#5 /home1/sayitwj2/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php(201): Illuminate\Log\Writer->fireLogEvent('error', O in /home1/sayitwj2/public_html/vendor/composer/ClassLoader.php on line 440
+[10-Jul-2017 12:44:57] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:44:57] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:16] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:16] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:24] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:24] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:25] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:25] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:27] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:27] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:31] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:31] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:58] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:45:58] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:46:06] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:46:06] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:46:14] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:46:14] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:46:27] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:46:27] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:51:17] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/sayitwj2/public_html/public/index.php on line 50
+[10-Jul-2017 12:51:17] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sayitwj2/public_html/public/index.php on line 50
