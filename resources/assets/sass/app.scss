@@ -1,9 +1,49 @@
 
-// Fonts
-@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
 
-// Variables
-@import "variables";
+button.btn-primary {
+  background-color: #4da5b5 !important;
+}
+body, body *:not(i) {
+  font-family: 'Assistant', sans-serif !important;
+}
 
-// Bootstrap
-@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+.navbar-nav .logo img {
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
+  margin-left: 15px;
+}
+
+.navbar-default {
+  background: #f2dede;
+}
+
+.navbar-nav .logo {
+  padding-top: 5px;
+  font-size: 30px;
+}
+
+.navbar-nav {
+  font-size: 24px;
+}
+
+.navbar {
+  min-height: 100px;
+}
+
+.navbar .navbar-nav {
+  height: 100px;
+}
+.navbar .navbar-nav li a {
+  padding-top: 38px;
+  height: 100px;
+}
+
+body {
+  padding-top: 100px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  background-color: white;
+}
+

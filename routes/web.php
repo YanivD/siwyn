@@ -1,51 +1,24 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
-|
-*/
-
-Route::get('/', function () {
-
-    return view('pages.posts_list')
-        ->with('posts', \App\Post::orderBy('published_at', 'desc')->get());
-
-})->name('posts_list');
-
-Route::get('gallery', function () {
-
-    return view('pages.gallery')
-        ->with('images', \App\Gallery::where('is_show', true)->get());
-
-})->name('gallery');
+Route::get('/',       'SiteController@homepage')->name('homepage');
+Route::get('gallery', 'SiteController@gallery') ->name('gallery');
+Route::get('gallery', 'SiteController@gallery') ->name('gallery');
+Route::get('add_subscriber', 'SiteController@add_subscriber')->name('add_subscriber');
 
 
 
-
-Route::get('add_subscriber', function () {
-    $email = request()->get('email');
-    \App\Subscriber::firstOrCreate([
-        'email' => $email
-    ]);
-    return [];
-
-})->name('add_subscriber');
 
 
 Route::group(['middleware' => 'auth', 'prefix' => 'maya'], function () {
 
     Route::post('upload_image', function () {
+        $post_id = request()->get('post_id');
         $path = request()->file('image')->store('public/posts');
         $url = url('storage/'.$path);
 
         \App\Gallery::create([
             'url' => $url,
+            'post_id' => $post_id,
             'is_show' => TRUE,
         ]);
 
@@ -61,7 +34,7 @@ Route::group(['middleware' => 'auth', 'prefix' => 'maya'], function () {
     });
 
     Route::get('/', function () {
-        return view('pages.list_post')
+        return view('admin.list_post')
             ->with('images', \App\Gallery::all())
             ->with('posts', \App\Post::orderBy('published_at', 'desc')->get());
 
@@ -69,7 +42,7 @@ Route::group(['middleware' => 'auth', 'prefix' => 'maya'], function () {
 
     Route::get('add_post', function () {
 
-        return view('pages.add_post');
+        return view('admin.add_post');
 
     })->name('add_post');
 
@@ -80,7 +53,7 @@ Route::group(['middleware' => 'auth', 'prefix' => 'maya'], function () {
 
     Route::get('edit_post/{id}', function ($id) {
         $post = \App\Post::findOrFail($id);
-        return view('pages.edit_post')
+        return view('admin.edit_post')
             ->with('post', $post);
 
     })->name('edit_post');
@@ -94,7 +67,8 @@ Route::group(['middleware' => 'auth', 'prefix' => 'maya'], function () {
 
     Route::post('add_post', function () {
 
-        \App\Post::create(request()->all());
+        $post = \App\Post::create(request()->all());
+        \App\Gallery::where('post_id', NULL)->update(['post_id' => $post->id ]);
 
         return redirect()->route('admin_posts_list');
     });
