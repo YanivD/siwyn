@@ -18,7 +18,8 @@ class SiteController extends Controller
 
     public function homepage()
     {
-        $visible_posts = Post::orderBy('published_at', 'desc')->get();
+        $visible_posts = Post::where('is_published', TRUE)
+            ->orderBy('published_at', 'desc')->get();
 
         return view('site.homepage')
             ->with('posts', $visible_posts);

@@ -11,67 +11,21 @@ Route::get('add_subscriber', 'SiteController@add_subscriber')->name('add_subscri
 
 Route::group(['middleware' => 'auth', 'prefix' => 'maya'], function () {
 
-    Route::post('upload_image', function () {
-        $post_id = request()->get('post_id');
-        $path = request()->file('image')->store('public/posts');
-        $url = url('storage/'.$path);
+    Route::get('/',               'AdminController@dashboard')->name('admin.dashboard');
+    Route::get('edit_post/{id}',  'AdminController@edit_post')->name('admin.edit_post');
+    Route::post('edit_post/{id}', 'AdminController@update_post');
+    Route::post('update_gallery', 'AdminController@update_gallery')->name('admin.update_gallery');
+    Route::get('add_post',        'AdminController@add_post')->name('admin.add_post');
+    Route::get('delete_post/{id}', 'AdminController@delete_post')->name('admin.delete_post');
 
-        \App\Gallery::create([
-            'url' => $url,
-            'post_id' => $post_id,
-            'is_show' => TRUE,
-        ]);
+    Route::post('upload_image', 'AdminController@upload_image')->name('admin.upload_image');
 
-        return $url;
-    })->name('upload_image');
 
-    Route::post('/', function () {
-        $activeImages = array_keys(request()->get('gallery'));
 
-        \App\Gallery::whereIn('url', $activeImages)->update(['is_show'=> TRUE]);
-        \App\Gallery::whereNotIn('url', $activeImages)->update(['is_show'=> FALSE]);
-        return redirect()->back();
-    });
 
-    Route::get('/', function () {
-        return view('admin.list_post')
-            ->with('images', \App\Gallery::all())
-            ->with('posts', \App\Post::orderBy('published_at', 'desc')->get());
 
-    })->name('admin_posts_list');
 
-    Route::get('add_post', function () {
 
-        return view('admin.add_post');
-
-    })->name('add_post');
-
-    Route::get('delete_post/{id}', function ($id) {
-        \App\Post::find($id)->delete();
-        return redirect()->back();
-    })->name('delete_post');
-
-    Route::get('edit_post/{id}', function ($id) {
-        $post = \App\Post::findOrFail($id);
-        return view('admin.edit_post')
-            ->with('post', $post);
-
-    })->name('edit_post');
-
-    Route::post('edit_post/{id}', function ($id) {
-
-        \App\Post::find($id)->update(request()->all());
-
-        return redirect()->route('admin_posts_list');
-    });
-
-    Route::post('add_post', function () {
-
-        $post = \App\Post::create(request()->all());
-        \App\Gallery::where('post_id', NULL)->update(['post_id' => $post->id ]);
-
-        return redirect()->route('admin_posts_list');
-    });
 });
 
 

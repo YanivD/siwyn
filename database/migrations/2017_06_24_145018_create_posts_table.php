@@ -17,6 +17,7 @@ class CreatePostsTable extends Migration
             $table->increments('id');
             $table->string('title');
             $table->date('published_at');
+            $table->boolean('is_published');
             $table->text('content');
             $table->timestamps();
         });

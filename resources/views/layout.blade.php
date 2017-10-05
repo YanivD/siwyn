@@ -22,6 +22,7 @@
         <link rel="stylesheet" href="//cdn.rawgit.com/morteza/bootstrap-rtl/master/dist/css/bootstrap-rtl.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.3/toastr.min.css" />
         <link href="https://fonts.googleapis.com/css?family=Assistant:200,300,400,600,700,800" rel="stylesheet">
+        <link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.4/summernote.css" rel="stylesheet">
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <style>
             @media (max-width:794px) and (min-width:766px) {
@@ -87,18 +88,20 @@
     </div>
     @yield('content')
 
-    <div class="jumbotron">
-        <div class="container" style="text-align: center">
-            <h4 style="margin-top: 0; text-align: right">כתובת מייל לקבלת התראות</h4>
-            <div class="form-group has-feedback">
-                <i class="fa fa-envelope form-control-feedback" style="right: 0;left: auto;"></i>
-                <input type="email" class="form-control" id="inputSubscribe" aria-describedby="inputError2Status" style="
-    padding-left: 12px;
-    padding-right: 42.5px;">
+    @if(in_array(\Request::route()->getName(), ['homepage', 'gallery'])):
+        <div class="jumbotron">
+            <div class="container" style="text-align: center">
+                <h4 style="margin-top: 0; text-align: right">כתובת מייל לקבלת התראות</h4>
+                <div class="form-group has-feedback">
+                    <i class="fa fa-envelope form-control-feedback" style="right: 0;left: auto;"></i>
+                    <input type="email" class="form-control" id="inputSubscribe" aria-describedby="inputError2Status" style="
+        padding-left: 12px;
+        padding-right: 42.5px;">
+                </div>
+                <button type="button" id="addSubscribe" class="btn btn-primary" style="margin-top: 15px; padding-left: 25px; padding-right: 25px;">הרשמה</button>
             </div>
-            <button type="button" id="addSubscribe" class="btn btn-primary" style="margin-top: 15px; padding-left: 25px; padding-right: 25px;">הרשמה</button>
         </div>
-    </div>
+    @endif
 
 
     <script type="text/javascript" src="{{ asset('js/all.js') }}"></script>
@@ -108,11 +111,13 @@
             addSubscriberUrl: '{{ route('add_subscriber') }}'
         };
 
-        SITE.global();
+        $(document).ready(function() {
+            SITE.global();
 
-        if (SITE[SITE_VARS.currentRoute]) {
-            SITE[SITE_VARS.currentRoute]();
-        }
+            if (SITE[SITE_VARS.currentRoute]) {
+                SITE[SITE_VARS.currentRoute]();
+            }
+        });
     </script>
 </body>
 </html>

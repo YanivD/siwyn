@@ -18,6 +18,13 @@ toastr.options = {
 
 var SITE = {
     global: function() {
+
+        $.ajaxSetup({
+            headers: {
+                'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+            }
+        });
+
         $('#addSubscribe').on('click', function (e) {
             $.ajax({
                 type: 'get',
@@ -34,6 +41,43 @@ var SITE = {
                 }
             })
         });
+    },
+    'admin.edit_post': function() {
+
+        $('#content').summernote({
+            minHeight: 600,
+            callbacks : {
+                onImageUpload : function (image) {
+                    uploadImage(image[0]);
+                }
+            }
+        });
+
+
+        function uploadImage(image) {
+            var data = new FormData();
+            data.append("image",image);
+            data.append("post_id", PAGE_VARS.editPostId);
+            $.ajax ({
+                data: data,
+                type: "POST",
+                url: "/maya/upload_image",
+                cache: false,
+                contentType: false,
+                processData: false,
+                beforeSend: function() {
+                    toastr.info('מעלה תמונה <i style="font-size:30px" class="fa fa-spinner fa-spin" aria-hidden="true"></i>')
+                },
+                success: function(url) {
+                    $('#content').summernote('insertImage', url);
+                    toastr.clear()
+                },
+                error: function(data) {
+                    console.log(data);
+                    toastr.clear()
+                }
+            });
+        }
     },
     homepage: function() {
         if (location.hash && location.hash.length) {

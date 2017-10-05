@@ -15,6 +15,7 @@ mix.scripts([
         'resources/assets/js/vendor/jquery.js',
         'resources/assets/js/vendor/bootstrap.js',
         'resources/assets/js/vendor/toastr.js',
+        'resources/assets/js/vendor/summernote.js',
         'resources/assets/js/app.js'
     ],
     'public/js/all.js')
