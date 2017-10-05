@@ -16,7 +16,7 @@
             <tbody>
             @foreach($posts as $post)
                 <tr>
-                    <td style="min-width: 20%">{{ Carbon\Carbon::parse($post->published_at)->format('d-m-Y') }}</td>
+                    <td class="text-center" style="min-width: 20%">{{ Carbon\Carbon::parse($post->published_at)->format('d-m-Y') }}</td>
                     <td>{{ $post->title }}</td>
                     <td class="text-center" style="font-size: 20px">@if($post->is_published) <i class="fa fa-thumbs-up" style="color: hotpink;"></i> @endif</td>
                     <td style="min-width:20%" class="text-center">
