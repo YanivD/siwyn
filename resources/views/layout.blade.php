@@ -23,6 +23,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.3/toastr.min.css" />
         <link href="https://fonts.googleapis.com/css?family=Assistant:200,300,400,600,700,800" rel="stylesheet">
         <link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.4/summernote.css" rel="stylesheet">
+        <link href="http://keenthemes.com/preview/metronic/theme/assets/global/plugins/cubeportfolio/css/cubeportfolio.css" rel="stylesheet">
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <style>
             @media (max-width:794px) and (min-width:766px) {

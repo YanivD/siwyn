@@ -2,15 +2,19 @@
 
 @section('content')
     <div style="padding: 0 40px">
-        <div class="row">
+        <div id="js-grid-lightbox-gallery" class="cbp">
             @foreach($images as $image)
-                <div class="col-md-3 col-xs-6 text-center galleryPost" style="margin-bottom:30px;">
-                    <a href="{{ route('homepage') }}#{{ $image->post_id }}" style="display: inline-block;">
-                        <img src="{{ asset($image['url']) }}" style="max-width:100%;">
-                    </a>
-                </div>
+
+            <div class="cbp-item web-design graphic print motion">
+                <a href="{{ route('homepage') }}#{{ $image->post_id }}" class="cbp-caption cbp-sinגglePageInline">
+                    <div class="cbp-caption-defaultWrap">
+                        <img src="{{ asset($image['url']) }}" alt="">
+                    </div>
+                </a>
+            </div>
             @endforeach
         </div>
+
     </div>
     <style>
         .galleryPost {

@@ -81,9 +81,41 @@ var SITE = {
     },
     homepage: function() {
         if (location.hash && location.hash.length) {
-            $('html, body').animate({
-                'scrollTop':   $('#post_'+(location.hash.replace('#', ''))).offset().top - 150
-            }, 2000);
+            $(window).on("load", function() {
+                $('html, body').animate({
+                    'scrollTop':   $('#post_'+(location.hash.replace('#', ''))).offset().top - 185
+                }, 1700);
+            });
         }
+    },
+    gallery: function() {
+        $('#js-grid-lightbox-gallery').cubeportfolio({
+            filters: '#js-filters-lightbox-gallery1, #js-filters-lightbox-gallery2',
+            layoutMode: 'grid',
+            mediaQueries: [{
+                width: 1500,
+                cols: 5
+            }, {
+                width: 1100,
+                cols: 4
+            }, {
+                width: 800,
+                cols: 3
+            }, {
+                width: 480,
+                cols: 2
+            }, {
+                width: 320,
+                cols: 1
+            }],
+            defaultFilter: '*',
+            animationType: 'rotateSides',
+            gapHorizontal: 10,
+            gapVertical: 10,
+            gridAdjustment: 'responsive',
+            caption: 'zoom',
+            displayType: 'sequentially',
+            displayTypeSpeed: 100
+        });
     }
 };

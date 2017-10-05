@@ -30,6 +30,9 @@
                 .pixel22, .pixel22 * {
                     font-size: 22px !important;
                 }
+                .pixel22 img {
+                    min-height: 100px;
+                }
             </style>
         @endforeach
 
