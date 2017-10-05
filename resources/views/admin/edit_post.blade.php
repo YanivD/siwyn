@@ -16,13 +16,13 @@
             </div>
 
             <div class="form-group">
-                <label for="is_published">מוצג באתר?</label>
-                <input type="checkbox" style="-webkit-transform: scale(2);margin-right: 15px;" id="is_published" value="1" name="is_published" @if($post->is_published) checked="checked" @endif>
+                <label for="content">תוכן הפוסט</label>
+                <textarea required name="content" id="content">{{ $post->content }}</textarea>
             </div>
 
             <div class="form-group">
-                <label for="content">תוכן הפוסט</label>
-                <textarea required name="content" id="content">{{ $post->content }}</textarea>
+                <label for="is_published">מוצג באתר?</label>
+                <input type="checkbox" style="-webkit-transform: scale(2);margin-right: 15px;" id="is_published" value="1" name="is_published" @if($post->is_published) checked="checked" @endif>
             </div>
 
             <button type="submit" class="btn btn-primary btn-lg">עדכני פוסט</button>

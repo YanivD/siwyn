@@ -82,7 +82,7 @@ var SITE = {
     homepage: function() {
         if (location.hash && location.hash.length) {
             $('html, body').animate({
-                'scrollTop':   $(location.hash).offset().top - 150
+                'scrollTop':   $('#post_'+(location.hash.replace('#', ''))).offset().top - 150
             }, 2000);
         }
     }

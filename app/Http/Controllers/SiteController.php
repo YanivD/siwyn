@@ -10,7 +10,11 @@ class SiteController extends Controller
 {
     public function gallery()
     {
-        $images = Gallery::where('is_show', true)->get();
+        $published_posts = Post::where('is_published', TRUE)->get();
+        $images = Gallery::where('is_show', true)
+            ->whereIn('post_id', array_column($published_posts->toArray(), 'id'))
+            ->orderBy('id', 'desc')
+            ->get();
 
         return view('site.gallery')
             ->with('images', $images);

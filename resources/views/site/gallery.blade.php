@@ -5,7 +5,7 @@
         <div class="row">
             @foreach($images as $image)
                 <div class="col-md-3 col-xs-6 text-center galleryPost" style="margin-bottom:30px;">
-                    <a href="{{ route('homepage') }}#post_{{ $image->post_id }}" style="display: inline-block;">
+                    <a href="{{ route('homepage') }}#{{ $image->post_id }}" style="display: inline-block;">
                         <img src="{{ asset($image['url']) }}" style="max-width:100%;">
                     </a>
                 </div>

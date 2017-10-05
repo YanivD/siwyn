@@ -46,7 +46,7 @@ class AdminController extends Controller
             'title'        => 'פוסט חדש',
             'published_at' => date('Y-m-d'),
             'content'      => '',
-            'is_published' => FALSE,
+            'is_published' => TRUE,
         ]);
 
         return redirect()->route('admin.edit_post', [ 'id' => $post->id ]);
@@ -55,5 +55,19 @@ class AdminController extends Controller
     public function delete_post($id) {
         Post::find($id)->delete();
         return redirect()->back();
+    }
+
+    public function upload_image() {
+        $post_id = request()->get('post_id');
+        $path = request()->file('image')->store('public/posts');
+        $url = url('storage/'.$path);
+
+        Gallery::create([
+            'url'     => $url,
+            'post_id' => $post_id,
+            'is_show' => TRUE,
+        ]);
+
+        return $url;
     }
 }
