@@ -25,8 +25,11 @@ class SiteController extends Controller
         $visible_posts = Post::where('is_published', TRUE)
             ->orderBy('published_at', 'desc')->get();
 
+        $gallery_latest = Gallery::where('is_show', TRUE)->orderBy('id', 'desc')->take(6)->get();
+
         return view('site.homepage')
-            ->with('posts', $visible_posts);
+            ->with('posts', $visible_posts)
+            ->with('gallery_latest', $gallery_latest);
     }
 
     public function add_subscriber()

@@ -58,16 +58,21 @@ class AdminController extends Controller
     }
 
     public function upload_image() {
-        $post_id = request()->get('post_id');
-        $path = request()->file('image')->store('public/posts');
-        $url = url('storage/'.$path);
+        $post_id  = request()->get('post_id');
+        $path     = request()->file('image')->store('public/posts');
+        $filename = basename($path);
+        $url      = url('storage/public/posts/'.$filename);
+        $tiny_url = url('storage/public/posts/_'.$filename);
+
+        $tiny = new \msonowal\LaravelTinify\Services\TinifyService;
+        $tiny->fromUrl($url)->toFile('storage/public/posts/_'.$filename);
 
         Gallery::create([
-            'url'     => $url,
+            'url'     => $tiny_url,
             'post_id' => $post_id,
             'is_show' => TRUE,
         ]);
 
-        return $url;
+        return $tiny_url;
     }
 }
